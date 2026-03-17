@@ -1,0 +1,72 @@
+{
+  "timestamp": "2026-03-16T09:51:48.269017",
+  "claim": "President Ferdinand Marcos Jr. used his 2025 State of the Nation Address to reaffirm the Philippines' diplomatic principle of friendship with all nations, while subtly addressing China's activities in the West Philippine Sea by noting that certain claims have \"no legal basis.\"",
+  "analysis": {
+    "PERSON": [
+      {
+        "text": "Ferdinand Marcos Jr.",
+        "label": "PERSON",
+        "start": 10,
+        "end": 30
+      }
+    ],
+    "ORG": [],
+    "GPE": [
+      {
+        "text": "Philippines",
+        "label": "GPE",
+        "start": 89,
+        "end": 100
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 179,
+        "end": 184
+      }
+    ],
+    "LOC": [
+      {
+        "text": "West Philippine Sea",
+        "label": "LOC",
+        "start": 205,
+        "end": 224
+      }
+    ],
+    "DATE": [
+      {
+        "text": "2025",
+        "label": "DATE",
+        "start": 40,
+        "end": 44
+      }
+    ],
+    "TIME": [],
+    "MONEY": [],
+    "PERCENT": [],
+    "EVENT": [],
+    "LAW": [],
+    "PRODUCT": []
+  },
+  "search_terms": [
+    "Ferdinand Marcos Jr.",
+    "Philippines",
+    "China",
+    "West Philippine Sea",
+    "the nation",
+    "the west philippine sea",
+    "no legal basis",
+    "certain claims",
+    "china's activities",
+    "diplomatic",
+    "west",
+    "state",
+    "claims",
+    "jr.",
+    "marcos",
+    "principle",
+    "sea",
+    "2025-03-16"
+  ],
+  "results": []
+}

@@ -1,0 +1,73 @@
+{
+  "timestamp": "2026-03-16T09:37:56.791376",
+  "claim": "In his July 2025 SONA, President Marcos emphasized the Philippines' neutral foreign policy stance, stating the country seeks friendly relations with all nations while addressing territorial disputes with China in the West Philippine Sea.",
+  "analysis": {
+    "PERSON": [
+      {
+        "text": "Marcos",
+        "label": "PERSON",
+        "start": 33,
+        "end": 39
+      }
+    ],
+    "ORG": [],
+    "GPE": [
+      {
+        "text": "Philippines",
+        "label": "GPE",
+        "start": 55,
+        "end": 66
+      },
+      {
+        "text": "China",
+        "label": "GPE",
+        "start": 204,
+        "end": 209
+      }
+    ],
+    "LOC": [
+      {
+        "text": "West Philippine Sea",
+        "label": "LOC",
+        "start": 217,
+        "end": 236
+      }
+    ],
+    "DATE": [
+      {
+        "text": "July 2025",
+        "label": "DATE",
+        "start": 7,
+        "end": 16
+      }
+    ],
+    "TIME": [],
+    "MONEY": [],
+    "PERCENT": [],
+    "EVENT": [],
+    "LAW": [],
+    "PRODUCT": []
+  },
+  "search_terms": [
+    "Marcos",
+    "Philippines",
+    "China",
+    "West Philippine Sea",
+    "the west philippine sea",
+    "territorial disputes",
+    "the philippines' neutral foreign policy stance",
+    "the country",
+    "his july 2025 sona",
+    "policy",
+    "disputes",
+    "west",
+    "july",
+    "president",
+    "country",
+    "foreign",
+    "sea",
+    "neutral",
+    "2025-07-16"
+  ],
+  "results": []
+}
